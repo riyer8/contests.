@@ -26,8 +26,6 @@ public class planting {
 		System.out.println(max);
 		pw.println(max);
 		
-		
-		
 		pw.close();
 	}
 	
