@@ -88,3 +88,6 @@ public class radio {
 	}
 
 }
+//2016 January Gold #2
+//this solution uses dynamic programming
+//finds the smallest distance as we iterate through both sequences
