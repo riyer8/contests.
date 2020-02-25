@@ -2,7 +2,11 @@ import java.io.*;
 import java.util.*;
 import java.lang.*;
 import java.math.*;
- 
+
+//B: Longest Palindrome: Codeforces Round #620 (Div. 2)
+//Created an Arraylist of symmetric, separate words on the outside.
+//A boolean and string of a symmetric singular word. This is the word in the middle.
+
 public class Palindrome {
 	public static class Pair{
 		String x,y;
