@@ -3,8 +3,8 @@ import java.util.*;
 import java.lang.*;
 import java.lang.reflect.Array;
 import java.math.*;
- 
-public class A {
+ //2A: Winner
+public class Winner {
 	public class Two {
 		int val; int ind;
 		public Two(int a, int b) {
@@ -115,7 +115,7 @@ public class A {
  
 	}
 	public static void main (String[] args) throws Exception {
-		new A().run();
+		new Winner().run();
 	}
 	public void shuffleArray(long[] arr) {
         int n = arr.length;
