@@ -2,10 +2,10 @@ import java.util.*;
 import java.io.*;
 import java.text.*;
 import java.math.*;
-import static java.lang.System.*;
-import static java.lang.Integer.*;
-import static java.lang.Double.*;
-import static java.lang.Math.*;
+import java.lang.*;
+
+// Problem Statement: http://web.stanford.edu/class/archive/cs/cs106x/cs106x.1174/assn/anagrams.html
+// used backtracking to find the possible anagrams
 
 public class anagrams {
 	static ArrayList<ArrayList<String>> workingCombinations = new ArrayList<ArrayList<String>>();
