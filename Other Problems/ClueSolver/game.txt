@@ -1,0 +1,23 @@
+false
+4
+p1 p2 p3 p4
+mustard white
+plum rope conservatory billiard
+p4 green knife lounge p2
+p4 plum wrench lounge p1
+p1 scarlet rope dining p3 dining
+p2 scarlet knife billiard p4
+p3 peacock candlestick conservatory p4
+p4 peacock leadpipe hall p2
+p1 peacock knife hall p2 hall
+p2 peacock knife library none
+p3 peacock knife ballroom p4
+p4 green wrench hall p2
+p1 peacock rope library p2 library
+p2 peacock revolver library p3
+p3 plum leadpipe kitchen p1
+p4 scarlet wrench library p2
+p2 peacock candlestick hall p4
+p3 peacock rope study p1
+p4 scarlet wrench library p2
+p1 peacock knife study p2 knife
