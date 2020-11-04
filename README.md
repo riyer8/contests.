@@ -12,3 +12,7 @@
 ## Kattis
 
 *work in progress*
+
+## Other Problems
+
+*work in progress*
